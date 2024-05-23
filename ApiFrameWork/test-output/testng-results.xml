@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T17:17:59 IST" name="Default suite" finished-at="2024-05-22T17:17:59 IST" duration-ms="200">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T17:17:59 IST" name="Default test" finished-at="2024-05-22T17:17:59 IST" duration-ms="200">
+      <class name="programmingLogics.ReverseString">
+        <test-method signature="swapChars()[pri:0, instance:programmingLogics.ReverseString@54c5a2ff]" started-at="2024-05-22T17:17:59 IST" name="swapChars" finished-at="2024-05-22T17:17:59 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swapChars -->
+      </class> <!-- programmingLogics.ReverseString -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
