@@ -38,10 +38,16 @@ import org.apache.xmlbeans.impl.xb.xsdschema.Public;
 		return mid;
 	}
 	
+	public int getMid1() {
+		System.out.println("Make Change");
+		return mid;
+	}
 	
 	
 }
 
+ 
+ 
 //public class Encapsulation{
 //public static void main(String[] args) {
 //	Defi ep = new Defi("prachii", "556789");
